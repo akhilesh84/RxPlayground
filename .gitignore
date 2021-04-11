@@ -4,3 +4,5 @@ obj/
 .rider/
 riderModule.iml
 /_ReSharper.Caches/
+
+.idea/
